@@ -1,0 +1,1 @@
+Bateria completa de testes com relatório de cobertura
